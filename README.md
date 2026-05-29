@@ -31,9 +31,6 @@
 
 ## *Estadísticas de GitHub*
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanManuelResquin84&show_icons=true&theme=radical&include_all_commits=true&hide_border=true&card_width=400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanManuelResquin84&theme=radical&hide_border=true&card_width=400" />
-</p>
-
-
+| *Estadísticas Generales* | *Racha de Actividad* |
+| :---: | :---: |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=JuanManuelResquin84&show_icons=true&theme=radical&hide_border=true&count_private=true) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=JuanManuelResquin84&theme=radical&hide_border=true) |
