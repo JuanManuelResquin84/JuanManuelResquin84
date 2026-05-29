@@ -6,6 +6,10 @@
 
 > * Apasionado por la tecnología y los datos
 
+> * Profesional con más de 10 años de trayectoria híbrida: la precisión estructural de la Arquitectura y la visión estratégica de las Ventas. Actualmente, aplico esta experiencia en Data Science e IA para construir soluciones analíticas, escalables y orientadas al negocio.
+
+> * Mi diferencial es la capacidad de gestionar el ciclo de vida completo del dato: desde la extracción y limpieza en SQL y Python, pasando por el despliegue de modelos (MLOps, Docker, MLflow), hasta la presentación estratégica mediante Power BI. Gracias a mi pasado en logística, costos operativos y gestión de proyectos, no solo analizo datos, sino que traduzco información técnica en decisiones de alto impacto comercial.
+
 ## *Sociales*
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-manuel-resquin-1102b999/)
 
