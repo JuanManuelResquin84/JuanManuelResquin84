@@ -28,7 +28,7 @@
 ## *EXPERIENCIA PROFESIONAL*
 
 > * *Electro Misiones Neored* – Asesor Comercial (Dic. 2023 – Mar. 2026)
-Gestión integral de ventas, control de stock, atención al cliente y relación con provee￾dores. Implementación de presupuestos y estrategias comerciales orientadas a la fidelización de clientes.
+Gestión integral de ventas, control de stock, atención al cliente y relación con proveedores. Implementación de presupuestos y estrategias comerciales orientadas a la fidelización de clientes.
 
 > * *ARTEC SRL* – Arquitecto (Ago. 2022 – Dic. 2022)
 Dirección y gestión de obras, coordinación de personal y control de materiales.
