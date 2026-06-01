@@ -43,6 +43,8 @@ Diseño arquitectónico, gestión documental y supervisión de obras.
 ## *Sociales*
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-manuel-resquin-1102b999/)
 
+Como pasatiempo, tengo mi aparte creativa y portafolio en [AdobeStock](https://stock.adobe.com/ar/contributor/209440880/...)
+
 ## *Tecnologías utilizadas*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
