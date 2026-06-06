@@ -43,7 +43,11 @@ Diseño arquitectónico, gestión documental y supervisión de obras.
 ## *Sociales*
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-manuel-resquin-1102b999/)
 
-Como pasatiempo, tengo mi aparte creativa y portafolio en [AdobeStock]([https://stock.adobe.com/ar/contributor/209440880/...](https://stock.adobe.com/ar/contributor/209440880/juan-manuel-resquin?load_type=author&prev_url=detail)
+Como pasatiempo, tengo mi aparte creativa en edición de fotos e imagenes creadas con IA, les dejo mi portafolio 
+[![Adobe Stock](https://img.shields.io/badge/Adobe_Stock-FF0000?style=for-the-badge&logo=adobe&logoColor=white)](https://stock.adobe.com/ar/contributor/209440880/juan-manuel-resquin?load_type=author&prev_url=detail)
+
+También esta mi Canal de Youtube en donde subo contenido de Musica Hecha con IA
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@INDECTUCANMUSIC)
 
 ## *Tecnologías utilizadas*
 
