@@ -46,8 +46,11 @@ Diseño arquitectónico, gestión documental y supervisión de obras.
 Como pasatiempo, tengo mi aparte creativa en edición de fotos e imagenes creadas con IA, les dejo mi portafolio 
 [![Adobe Stock](https://img.shields.io/badge/Adobe_Stock-FF0000?style=for-the-badge&logo=adobe&logoColor=white)](https://stock.adobe.com/ar/contributor/209440880/juan-manuel-resquin?load_type=author&prev_url=detail)
 
-También esta mi Canal de Youtube en donde subo contenido de Musica Hecha con IA
+También tengo dos Canales de Youtube en donde subo contenido de Musica Hecha con IA
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@INDECTUCANMUSIC)
+
+Y otro canal que estoy en proceso de producción en el que subiré materiales sobre mi Tecnicatura en Ciencia de Datos e IA 
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DATAMATES1984)
 
 ## *Tecnologías utilizadas*
 
